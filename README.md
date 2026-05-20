@@ -1,6 +1,6 @@
 # Personal Finance Decision Models
 
-A collection of Excel-based financial decision models designed for the free public seminars I host as Local Coordinator of Students for Liberty Sweden. Each model helps non-technical audiences think through a real financial decision using proper finance methodology — net present value, sensitivity analysis, total cost of ownership, and break-even analysis.
+A collection of Excel-based financial decision models designed for the public seminars I host as Local Coordinator of Students for Liberty Sweden. Each model helps non-technical audiences think through a real financial decision using proper finance methodology — net present value, sensitivity analysis, total cost of ownership, and break-even analysis.
 
 The models follow three design principles:
 
