@@ -66,6 +66,6 @@ These are decision aids, not financial advice. They are built to help people *th
 Built and maintained by Manuel A. Alvarez — Business & Financial Analyst, focused on econometrics, financial modeling, and data-driven decision-making.
 
 - Email: noloalvartz@gmail.com
-- Seminars: [The Student's Journal on YouTube]
-- Articles: wespeakfreely.org
+- Seminars: [https://www.youtube.com/@TheStudentsJournal]
+- Articles: [https://www.wespeakfreely.org/author/manuelaalvarez/]
 - Community: Students for Liberty Sweden (@esflsweden)
